@@ -1,0 +1,17 @@
+body{
+margin: 0;
+padding: 0;
+background: #eee;
+}
+.main{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	background: url(http://july-suv-promotion.beijing-hyundai.com.cn/images/itembg.png);
+}
+.main img{
+	width: 100%;
+}
+.main h1{
+	color: #FFA500;
+}
